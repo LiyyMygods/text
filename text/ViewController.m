@@ -22,6 +22,11 @@
     label.text  = @"0.01.1";
     [self.view addSubview:label];
     
+    UILabel *font = [[UILabel alloc] init];
+    font.font = [UIFont systemFontOfSize:20];
+    font.text =  @"0.012";
+    [self.view addSubview:font];
+    
 }
 
 

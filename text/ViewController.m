@@ -18,6 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = [UIColor redColor];
+    UILabel *label = [UILabel new];
+    label.text  = @"0.01.1";
+    [self.view addSubview:label];
     
 }
 

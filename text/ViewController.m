@@ -27,6 +27,9 @@
     font.text =  @"0.012";
     [self.view addSubview:font];
     
+    UIButton *btn  = [UIButton buttonWithType:UIButtonTypeCustom];
+    [self.view addSubview:btn];
+    
 }
 
 

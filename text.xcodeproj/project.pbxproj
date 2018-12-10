@@ -13,6 +13,7 @@
 		7D22D95721BE1A0E0039D7BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D22D95621BE1A0E0039D7BF /* Assets.xcassets */; };
 		7D22D95A21BE1A0E0039D7BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D22D95821BE1A0E0039D7BF /* LaunchScreen.storyboard */; };
 		7D22D95D21BE1A0E0039D7BF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D22D95C21BE1A0E0039D7BF /* main.m */; };
+		7D324E7621BE5AB3001D8001 /* seconViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D324E7521BE5AB3001D8001 /* seconViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		7D22D95921BE1A0E0039D7BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D22D95B21BE1A0E0039D7BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D22D95C21BE1A0E0039D7BF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7D324E7421BE5AB3001D8001 /* seconViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = seconViewController.h; sourceTree = "<group>"; };
+		7D324E7521BE5AB3001D8001 /* seconViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = seconViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				7D22D94E21BE1A0D0039D7BF /* AppDelegate.m */,
 				7D22D95021BE1A0D0039D7BF /* ViewController.h */,
 				7D22D95121BE1A0D0039D7BF /* ViewController.m */,
+				7D324E7421BE5AB3001D8001 /* seconViewController.h */,
+				7D324E7521BE5AB3001D8001 /* seconViewController.m */,
 				7D22D95321BE1A0D0039D7BF /* Main.storyboard */,
 				7D22D95621BE1A0E0039D7BF /* Assets.xcassets */,
 				7D22D95821BE1A0E0039D7BF /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 				7D22D95221BE1A0D0039D7BF /* ViewController.m in Sources */,
 				7D22D95D21BE1A0E0039D7BF /* main.m in Sources */,
 				7D22D94F21BE1A0D0039D7BF /* AppDelegate.m in Sources */,
+				7D324E7621BE5AB3001D8001 /* seconViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
